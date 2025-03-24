@@ -46,17 +46,17 @@ The link of the complete deployed Dashbord : https://huggingface.co/spaces/HyraX
 
 Here are the saved models:
 
-![MLFlowTracking]("./ML_&_API/MLFlow_tracking.png")
+![MLFlowTracking]("ML_&_API/MLFlow_tracking.png")
 
 The best model, with the best test score was the XGBoost with GridSearch. So we used it for the API.
 
 Here the example of what looks like the API:
 
-![APIproof1]("./ML_&_API/API_RUN_Test_Proof_1.png")
+![APIproof1](/ML_&_API/API_RUN_Test_Proof_1.png")
 
 And the result of the example prediction:
 
-![APIproof2]("./ML_&_API/API_RUN_Test_Proof_2.png")
+![APIproof2]("ML_&_API/API_RUN_Test_Proof_2.png")
 
 That's works well 💲❗
 
