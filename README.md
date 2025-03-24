@@ -59,7 +59,7 @@ And the result of the example prediction:
 
 ![APIproof2](ML_&_API/API_RUN_Test_Proof_2.png)
 
-That's works well 💲❗
+That's working well 💶💶‼️‼️
 
 And There is a page in the dashboard that called the API and that does prediction in function of the car's characterisctics that the user chooses.
 
