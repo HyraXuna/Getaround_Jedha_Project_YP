@@ -1,6 +1,6 @@
 # Getaround project
 
-![snap](https://lever-client-logos.s3.amazonaws.com/2bd4cdf9-37f2-497f-9096-c2793296a75f-1568844229943.png)
+![snap](https://upload.wikimedia.org/wikipedia/commons/4/44/Getaround-Logo---Purple-sq.png)
 
 The goals of this project is to apply deployment abilities:
 
